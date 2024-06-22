@@ -35,6 +35,7 @@ However, it's important to note that direct pin configuration is suitable for si
 ## Credits
 - [HID-Project library](https://github.com/NicoHood/HID)
 - Arduino community for resources and support
+- [Scottokeebs](https://www.youtube.com/watch?v=hjml-K-pV4E) for provide me base casing design
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
