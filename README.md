@@ -21,7 +21,7 @@ The advantages of direct pin configuration include:
 However, it's important to note that direct pin configuration is suitable for simple projects with a limited number of buttons. For more complex projects with many buttons, matrix techniques are often used to conserve the number of microcontroller pins utilized.
 
 ## Wiring diagram
-
+![12_3aks wiring diagram](https://github.com/galihpd/12_3aks/blob/main/media/Untitled%20Sketch_bb.png)
 
 ## Uploading the Sketch
 1. Clone or download the repository.
