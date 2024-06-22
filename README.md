@@ -13,7 +13,7 @@ Mostly QMK firmware are matrix enabled wiring layout because limitation of contr
 
 ## Hardware Requirements
 - 1x Arduino Pro Micro Atmega32U4
-- 12x MX Style switch
+- 12x MX Style switch + keycaps
 - 3x Potentiometer (use any value)
 - UTP Cable as you need
 
