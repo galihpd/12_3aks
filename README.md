@@ -1,6 +1,7 @@
 
 # 12_3aks Keyboard
 Handwired 12 keys 3 potentiometer macropad
+![12_3aks](https://github.com/galihpd/12_3aks/blob/main/media/IMG_20240622_174521_2%20%281%29.jpg)
 
 ## Description
 This Arduino project utilizes the HID-Project library to create a custom keyboard with media control functions and additional keys.
