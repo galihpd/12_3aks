@@ -1,7 +1,7 @@
 
 
 # 12_3aks Keyboard
-Handwired 12 keys 3 potentiometer macropad with only Arduino Sketch
+Handwired macropad with only Arduino Sketch
 
 
 ![12_3aks](https://github.com/galihpd/12_3aks/blob/main/media/IMG_20240622_174521_2%20%281%29.jpg)
